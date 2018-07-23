@@ -39,3 +39,26 @@ Examples of the Feature:
 1. Front End: html, css, java Script (I will ask someont to do them, because UI/UX is crucial in Web Service).
 2. Back End (Server): Java
 3. Calculation or Algorithm needed for the service：python, c/c++.
+
+[memo]
+	1. 特許(弁理士). 意味のない特許もある。
+	2. ハードがないと特許にならないかも。コピーライト。
+	3. contributerはお金を払わない
+	4. windows だったらC#が良い。GUIが簡単に作れる。GUIプログラミング。
+	5. server less AWS, node js AWS で計算させて、GRAPH QLからquery 
+	6. Docker上だとOSに依存しにくくなる。
+	7. circle.ci, 
+	8. FE と BEを作る
+	9. server = AWS
+	10. AWSのidはgit ignoreすること
+	11. Pivotal は pull request で所定の書き方をすると、勝手にタスクを終了してくれる
+	12. Front End react!
+	13. BE node.js
+	14. stock option
+	15. relay
+	16. Docer, node.js
+	17. enxyme, puppeteer(celenium like)
+	18. medium
+	19. npm
+	
+	
