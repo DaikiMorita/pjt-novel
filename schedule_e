@@ -52,13 +52,10 @@ Examples of the Feature:
 	9. server = AWS
 	10. AWSのidはgit ignoreすること
 	11. Pivotal は pull request で所定の書き方をすると、勝手にタスクを終了してくれる
-	12. Front End react!
-	13. BE node.js
 	14. stock option
 	15. relay
-	16. Docer, node.js
-	17. enxyme, puppeteer(celenium like)
+	16. Docer
+	17. enxyme
 	18. medium
-	19. npm
 	
 	
