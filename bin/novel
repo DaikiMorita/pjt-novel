@@ -1,0 +1,9 @@
+#!/bin/sh
+chcp 65001
+set -eux
+
+read COMMIT_MESSAGE
+
+git add .
+git commit -m "${COMMIT_MESSAGE}"
+git push origin novel
